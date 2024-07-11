@@ -1,0 +1,8 @@
+let num = prompt("Enter what you guess...");
+let val = 43;
+while(num != val ){
+    
+    num = prompt("yoy guess the wrong. try again...");
+
+}
+console.log("you guess the currect and the number is :",val);
